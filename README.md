@@ -1,3 +1,3 @@
 # Teste
 
-* Testar funcinalidade nova 
+* Testar funcionalidade nova 
